@@ -1,0 +1,48 @@
+
+Date: 2024-05-11 23:30:23, Member No: ABC9547, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-11 23:32:51, Member No: ABC8823, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-11 23:32:57, Member No: ABC8823, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-11 23:33:22, Member No: ABC8823, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-11 23:33:27, Member No: ABC8823, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-11 23:33:32, Member No: ABC8823, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-11 23:33:37, Member No: ABC8823, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-11 23:33:43, Member No: ABC8823, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-11 23:47:44, Member No: ABC9550, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-12 00:43:16, Member No: ABC6460, Redeemed Item: Gold voucher, Quantity: 1
+Date: 2024-05-12 00:43:54, Member No: ABC6460, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-12 00:44:06, Member No: ABC6460, Redeemed Item: Gold voucher, Quantity: 1
+Date: 2024-05-12 01:06:39, Member No: ABC6668, Redeemed Item: Gold voucher, Quantity: 1
+Date: 2024-05-12 01:06:55, Member No: ABC6668, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-12 01:48:14, Member No: ABC9550, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-12 01:48:17, Member No: ABC9550, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-12 01:48:21, Member No: ABC9550, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-12 01:56:26, Member No: ABC9550, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-12 01:56:30, Member No: ABC9550, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-12 01:56:31, Member No: ABC9550, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-12 01:56:33, Member No: ABC9550, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-12 01:56:37, Member No: ABC9550, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-12 02:53:43, Member No: ABC9550, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-12 02:53:53, Member No: ABC9550, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-12 02:54:00, Member No: ABC9550, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-12 02:46:03, Member No: ABC6460, Redeemed Item: Gold voucher, Quantity: 1
+Date: 2024-05-12 02:50:48, Member No: ABC6460, Redeemed Item: Gold voucher, Quantity: 1
+Date: 2024-05-12 15:14:57, Member No: ABC6208, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-12 17:06:13, Member No: ABC9550, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-12 17:06:30, Member No: ABC9550, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-12 17:06:33, Member No: ABC9550, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-12 20:30:29, Member No: ABC9550, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-12 20:35:25, Member No: ABC9550, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-14 00:17:41, Member No: ABC5558, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-14 00:17:51, Member No: ABC5558, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-14 00:18:05, Member No: ABC5558, Redeemed Item: Toothpaste, Quantity: 1
+Date: 2024-05-14 00:18:13, Member No: ABC5558, Redeemed Item: Year end sale voucher, Quantity: 1
+Date: 2024-05-14 00:18:18, Member No: ABC5558, Redeemed Item: Gold voucher, Quantity: 1
+Date: 2024-05-14 00:18:21, Member No: ABC5558, Redeemed Item: Shampoo, Quantity: 1
+Date: 2024-05-14 01:09:42, Member No: ABC9550, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-14 01:46:36, Member No: ABC6460, Redeemed Item: Year end sale voucher, Quantity: 1
+Date: 2024-05-14 02:19:54, Member No: ABC6460, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-14 02:20:52, Member No: ABC6460, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-14 17:31:16, Member No: ABC5266, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-14 17:51:40, Member No: ABC5266, Redeemed Item: Gold voucher, Quantity: 1
+Date: 2024-05-14 22:36:35, Member No: ABC5266, Redeemed Item: Umbrella, Quantity: 1
+Date: 2024-05-14 22:37:15, Member No: ABC5266, Redeemed Item: Umbrella, Quantity: 1
